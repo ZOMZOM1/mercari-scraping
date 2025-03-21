@@ -31,8 +31,8 @@ PythonとBeautifulSoup、Seleniumを用いて構築しており、個人利用�
 
 1. 必要なライブラリをインストール：
 
-```bash
 pip install requests beautifulsoup4 selenium pandas
+
 
 ✨ 今後の拡張予定（オプション）
 商品説明やカテゴリ、在庫状況の取得
